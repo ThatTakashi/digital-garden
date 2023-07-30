@@ -1,3 +1,11 @@
+---
+title: "Inquiry Standard"
+tags:
+- Project
+- School
+- DGT
+---
+
 [Inquiry Standard Research](Inquiry%20Standard%20Research.md)
 
 ## Inquiry Focus
