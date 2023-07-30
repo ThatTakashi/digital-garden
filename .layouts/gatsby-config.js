@@ -5,9 +5,9 @@ const siteMetadata = {
   shortName: "Wiki",
   description:
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
-  twitterName: "theowenyoung",
+  twitterName: "that_takashi",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-obsidian.owenyoung.com",
+  siteUrl: "https://thattakashi.me",
 };
 module.exports = {
   siteMetadata,
