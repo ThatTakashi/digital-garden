@@ -5,5 +5,5 @@ tags:
 - School
 - DGT
 ---
-- [[HTML Research]]
-- [[Visual Design]]
+[HTML Research](HTML%20Research.md)
+[Visual Design](Visual%20Design.md)

@@ -6,4 +6,4 @@ tags:
 - DES
 ---
 ## Current Work:
-- [[Design-project]]
+[Design-project](Design-project.md)

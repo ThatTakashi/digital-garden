@@ -1,7 +1,7 @@
 {
   "useTab": false,
   "tabSize": 2,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "attachmentFolderPath": "Attachments",
   "newLinkFormat": "shortest"
 }

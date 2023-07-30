@@ -6,7 +6,7 @@ tags:
 - DGT
 ---
 
-[[Inquiry-Standard-Research]]
+[Inquiry-Standard-Research](Inquiry-Standard-Research.md)
 
 ## Inquiry Focus
 Design and create a mobile app to help my dad track and organize his bike mechanic repair jobs.

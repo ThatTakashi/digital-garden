@@ -9,12 +9,13 @@ tags:
 # Design Project
 
 ##### Directory:
-[[Business-Cards]]
-[[Logos]]
-[[Website]]
+[Business-Cards](Business-Cards.md)
+[Website](Website.md)
+[Logos](Logos.md)
+
 
 ##### Links in with:
-[[Horror Game]]
+[Horror Game](Horror%20Game.md)
 
 ## Brief:
 

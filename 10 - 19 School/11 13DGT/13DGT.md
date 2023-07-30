@@ -7,8 +7,7 @@ tags:
 ---
 ## Current Work:
 #### Inquiry Standard:
-- [[Inquiry-Standard]]
-- [[Inquiry-Standard-Research]]
+[Inquiry-Standard](Inquiry-Standard.md)
 
 #### HTML Assessment:
-- [[HTML-Standard]]
+[HTML-Standard](HTML-Standard.md)

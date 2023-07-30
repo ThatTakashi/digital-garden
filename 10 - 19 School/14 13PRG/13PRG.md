@@ -6,7 +6,7 @@ tags:
 - PRG
 ---
 ## Current Work:
-- [ ] Continue [[Inquiry-Standard]]
+- [ ] Continue [Inquiry-Standard](Inquiry-Standard.md)
 
 ## Past Work:
-- [[Python-Music-Player]]
+[Python-Music-Player](Python-Music-Player.md)
