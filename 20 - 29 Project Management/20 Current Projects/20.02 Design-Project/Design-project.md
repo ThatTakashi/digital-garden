@@ -9,12 +9,12 @@ tags:
 # Design Project
 
 ##### Directory:
-[[notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Business-Cards|Business-Cards]]
-[[notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Logos|Logos]]
-[[notes/20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Website|Website]]
+[[Business-Cards]]
+[[Logos]]
+[[Website]]
 
 ##### Links in with:
-[[notes/20 - 29 Project Management/20 Current Projects/20.05 Horror Game/20.05.01 Horror Game|Horror Game]]
+[[Horror Game]]
 
 ## Brief:
 
