@@ -76,6 +76,20 @@
     "type": "split",
     "children": [
       {
+        "id": "2ab9112da368e962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1528ae88573448e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "2db6daf19412b3df",
         "type": "tabs",
         "children": [
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,8 +135,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b08dd1d4312b2f5a",
+  "active": "a1528ae88573448e",
   "lastOpenFiles": [
+    "README.md",
     "Start here.md"
   ]
 }
