@@ -7,6 +7,6 @@ tags:
 ---
 
 ## Website Designs:
-![](website1.png)
+![](Images/website1.png)
 
-![](website2.png)
+![](Images/website2.png)
