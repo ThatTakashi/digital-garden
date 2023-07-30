@@ -42,6 +42,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "4d9d99e7c35255a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -142,7 +150,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b08dd1d4312b2f5a",
+  "active": "3dc1f74833d74774",
   "lastOpenFiles": [
     "20 - 29 Project Management/20 Current Projects/20.02 Design-Project/Design-project.md",
     "README.md",
@@ -170,8 +178,8 @@
     "10 - 19 School/14 13PRG/13PRG.md",
     "10 - 19 School/13 13PAI/13PAI.md",
     "10 - 19 School/12 13DVC/13DVC.md",
-    "Images/website2.png",
-    "Images/website1.png",
+    "20 - 29 Project Management/20 Current Projects/20.02 Design-Project/website2.png",
+    "20 - 29 Project Management/20 Current Projects/20.02 Design-Project/website1.png",
     "Images/app.png",
     "Images",
     "30 - 39 Topics/36 Fiction",

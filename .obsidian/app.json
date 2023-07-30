@@ -3,5 +3,6 @@
   "tabSize": 2,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "Attachments",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
 }
