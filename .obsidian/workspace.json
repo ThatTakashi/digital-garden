@@ -29,6 +29,23 @@
     "type": "split",
     "children": [
       {
+        "id": "5747d18476caa582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d23c9620fa9b20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "df7bfa73556c2894",
         "type": "tabs",
         "children": [
@@ -58,10 +75,10 @@
             }
           },
           {
-            "id": "ad77cccf44e13396",
+            "id": "a7dc4eb76c971aaf",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -69,18 +86,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349
   },
   "right": {
     "id": "2f5c1b66b3e5b659",
     "type": "split",
     "children": [
       {
-        "id": "2ab9112da368e962",
+        "id": "02c7418dd70875ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a1528ae88573448e",
+            "id": "115c476e4837823f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +124,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2fafb04275b4eafa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
@@ -135,9 +142,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1528ae88573448e",
+  "active": "82d23c9620fa9b20",
   "lastOpenFiles": [
     "README.md",
+    "Untitled",
+    "Obsidian/Obsidian.md",
     "Start here.md"
   ]
 }

@@ -34,7 +34,7 @@ module.exports = {
           },
           {
             title: "Twitter",
-            url: "https://twitter.com/that_takashi",
+            url: "https://twitter.com/that_takashi_",
           },
         ],
         editUrl:
